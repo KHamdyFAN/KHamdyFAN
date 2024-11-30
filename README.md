@@ -1,5 +1,6 @@
 👋 Hi there, I’m Karim Hamdy (@KHamdyFAN)
 👀 Interests: Coding, gaming, and fitness.
+
 🌱 Education:
   - Bachelor’s degree in Computer Science, majoring in Machine Learning and AI.
   - Currently pursuing a Diploma in Artificial Intelligence and Machine Learning at Fanshawe College, London, Canada.
