@@ -4,9 +4,11 @@
 🌱 Education:
   - Bachelor’s degree in Computer Science, majoring in Machine Learning and AI.
   - Currently pursuing a Diploma in Artificial Intelligence and Machine Learning at Fanshawe College, London, Canada.
+
 💻 Experience:
   - Worked as an Odoo Developer for over a year.
   - Freelanced on platforms like Upwork, contributing to diverse projects.
+
 📫 Contact Me: karimheshampsn@gmail.com
 
 <!---
