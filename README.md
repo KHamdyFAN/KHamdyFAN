@@ -1,7 +1,7 @@
-👋 Hi there, I’m Karim Hamdy (@KHamdyFAN)
+<h1>👋 Hi there, I’m Karim Hamdy (@KHamdyFAN)
 
 
-👀 Interests: Coding, gaming, fitness, and AI.
+👀 Interests: Coding, gaming, fitness, and AI.</h1>
 
 
 <h2>🌱 Education</h2>
