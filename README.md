@@ -1,18 +1,17 @@
 👋 Hi there, I’m Karim Hamdy (@KHamdyFAN)
 
-👀 Interests: Coding, gaming, and fitness.
+👀 Interests: Coding, gaming, fitness, and AI.
 
 🌱 Education:
-  - Bachelor’s degree in Computer Science, majoring in Machine Learning and AI.
-  - Currently pursuing a Diploma in Artificial Intelligence and Machine Learning at Fanshawe College, London, Canada.
+Bachelor’s degree in Computer Science, majoring in Machine Learning and AI.
+Currently pursuing a Diploma in Artificial Intelligence and Machine Learning at Fanshawe College, London, Canada.
 
 💻 Experience:
-  - Worked as an Odoo Developer for over a year.
-  - Freelanced on platforms like Upwork, contributing to diverse projects.
+Worked as an Odoo Developer, gaining experience in ERP systems.
+Freelanced on Upwork, delivering solutions for clients.
+Previous roles include experience in weight loss camp management, cashiering, and IT support.
+
+📈 Current Projects:
+Check out my Machine Learning branch to see my ongoing work on various ML projects, including fraud detection and image-to-image translation.
 
 📫 Contact Me: karimheshampsn@gmail.com
-
-<!---
-KHamdyFAN/KHamdyFAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
