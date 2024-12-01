@@ -22,5 +22,6 @@ Previous roles include experience in weight loss camp management.
 <h2>📈 Current Projects</h2>
 
 Check out my [Machine Learning branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/ML) to see my ongoing work on various ML projects.
+Check out my [Python branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/ML](https://github.com/KHamdyFAN/KHamdyFAN/tree/Python/Porjects) to see my ongoing work on various Python projects.
 
 <h3>📫 Contact Me: karimheshampsn@gmail.com</h3>
