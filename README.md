@@ -4,13 +4,13 @@
 👀 Interests: Coding, gaming, fitness, and AI.
 
 
-<h1>🌱 Education(h1)</h1>
+<h2>🌱 Education</h2>
 
 Bachelor’s degree in Computer Science, majoring in Machine Learning and AI.
 
 Currently pursuing a Diploma in Artificial Intelligence and Machine Learning at Fanshawe College, London, Canada.
 
-💻 Experience:
+<h2>💻 Experience<h2>
 
 Worked as an Odoo Developer, gaining experience in ERP systems.
 
