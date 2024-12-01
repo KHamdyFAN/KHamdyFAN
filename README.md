@@ -1,7 +1,8 @@
-<h1>👋 Hi there, I’m Karim Hamdy (@KHamdyFAN)
+<h1>👋 Hi there, I’m Karim Hamdy (@KHamdyFAN)</h1>
 
 
-👀 Interests: Coding, gaming, fitness, and AI.</h1>
+<h2>👀 Interests</h2>
+Coding, gaming, fitness, and AI.
 
 
 <h2>🌱 Education</h2>
@@ -18,7 +19,7 @@ Freelanced on Upwork.
 
 Previous roles include experience in weight loss camp management.
 
-<h2>📈 Current Projects:</h2>
+<h2>📈 Current Projects</h2>
 
 Check out my [Machine Learning branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/ML) to see my ongoing work on various ML projects.
 
