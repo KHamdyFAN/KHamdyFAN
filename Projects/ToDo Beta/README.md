@@ -13,5 +13,3 @@ Visualize metrics using graphs and charts powered by Matplotlib and Seaborn.
 Add/Edit Task.
 
 Edit progress.
-
-![Dashboard Preview](./Preview.png)
