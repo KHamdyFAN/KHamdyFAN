@@ -53,7 +53,6 @@ Explore my [Python Branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/Python/Pr
 ## 📈 **GitHub Stats**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHamdyFAN&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHamdyFAN&layout=compact&theme=tokyonight)
 
 ---
 
