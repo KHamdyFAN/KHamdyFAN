@@ -1,28 +1,67 @@
-<h1>👋 Hi there, I’m Karim Hamdy (@KHamdyFAN)</h1>
+# 👋 Hi there, I’m Karim Hamdy (@KHamdyFAN)  
 
+---
 
-<h2>👀 Interests</h2>
-Coding, gaming, fitness, and AI.
+## 🧑‍💻 **About Me**  
+I’m an **AI and Machine Learning enthusiast** with a strong passion for coding, gaming, and fitness. I love solving problems, building projects, and continuously learning to stay ahead in the tech world.
 
+---
 
-<h2>🌱 Education</h2>
+## 🎓 **Education**  
+- 🎓 **Bachelor’s Degree** in Computer Science, specializing in **Machine Learning and AI** from Nile University, Egypt.  
+- 📚 **Diploma** in Artificial Intelligence and Machine Learning at **Fanshawe College**, London, Canada (Ongoing).  
 
-Bachelor’s degree in Computer Science, majoring in Machine Learning and AI.
+---
 
-Currently pursuing a Diploma in Artificial Intelligence and Machine Learning at Fanshawe College, London, Canada.
+## 💼 **Experience**  
+- 🚀 **Odoo Developer**: Hands-on experience with ERP systems, customization, and development.  
+- 🏋️‍♂️ **Weight Loss Camp Manager**: Developed leadership and management skills, ensuring smooth operations in dynamic environments.  
 
-<h2>💻 Experience</h2>
+---
 
-Worked as an Odoo Developer, gaining experience in ERP systems.
+## 🚧 **Current Projects**  
+### 🔹 Machine Learning  
+Check out my [Machine Learning Branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/ML) where I explore projects like:  
+- **Fraud Detection**  
+- **Image-to-Image Translation (GANs)**  
+- **Student Performance Analysis**  
 
-Freelanced on Upwork.
+### 🔹 Python Projects  
+Explore my [Python Branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/Python/Projects) to see:  
+- **File Handling and Exceptions**  
+- **Data Visualization Dashboards**  
+- **Automation Tools**  
 
-Previous roles include experience in weight loss camp management.
+---
 
-<h2>📈 Current Projects</h2>
+## 🛠️ **Skills & Technologies**  
+- **Programming**: Python, JavaScript, Java  
+- **Machine Learning**: TensorFlow, Scikit-learn, PyTorch  
+- **Web Development**: HTML, CSS, Odoo  
+- **Soft Skills**: Leadership, Problem-solving, Collaboration  
 
-Check out my [Machine Learning branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/ML) to see my ongoing work on various ML projects.
+---
 
-Check out my [Python branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/Python/Projects) to see my ongoing work on various Python projects.
+## 🎮 **Interests**  
+- 🧩 **Artificial Intelligence & Machine Learning**  
+- 🎮 **Gaming**  
+- 🏋️‍♂️ **Fitness**  
+- 💻 **Coding & Automation**  
 
-<h3>📫 Contact Me: karimheshampsn@gmail.com</h3>
+---
+
+## 📈 **GitHub Stats**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHamdyFAN&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHamdyFAN&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 **Contact Me**  
+- **Email**: [karimheshampsn@gmail.com](mailto:karimheshampsn@gmail.com)  
+- **LinkedIn**: [LinkedIn Profile](#) *(Add your LinkedIn URL)*  
+- **GitHub**: [GitHub Profile](https://github.com/KHamdyFAN)  
+
+---
+
+🌟 *"Striving to bridge the gap between coding, AI, and impactful solutions."*
