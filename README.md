@@ -59,7 +59,7 @@ Explore my [Python Branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/Python/Pr
 
 ## 📫 **Contact Me**  
 - **Email**: [karimheshampsn@gmail.com](mailto:karimheshampsn@gmail.com)  
-- **LinkedIn**: [LinkedIn Profile](#) *(Add your LinkedIn URL)*  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/karim-hamdy-23b330329/)
 - **GitHub**: [GitHub Profile](https://github.com/KHamdyFAN)  
 
 ---
