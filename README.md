@@ -22,7 +22,8 @@ I’m an **AI and Machine Learning enthusiast** with a strong passion for coding
 ## 🚧 **Current Projects**  
 ### 🔹 Machine Learning  
 Check out my [Machine Learning Branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/ML) where I explore projects like:  
-- **Student Performance Analysis**  
+- **Student Performance Analysis**
+- **Anomaly Detection**
 
 ### 🔹 Python Projects  
 Explore my [Python Branch](https://github.com/KHamdyFAN/KHamdyFAN/tree/Python/Projects) to see:  
